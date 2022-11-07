@@ -1,7 +1,7 @@
 import {ColorModeContext, useMode} from '/src/theme.js';
 import {CssBaseline, ThemeProvider} from '@mui/material';
 import {Routes, Route} from 'react-router-dom';
-import Topbar from '/src/scenes/global/Tobbar.jsx';
+import Topbar from '/src/scenes/global/Topbar.jsx';
 import Sidebar from '/src/scenes/global/Sidebar.jsx';
 // import Dashboard from '/src/scenes/dashboard.jsx';
 // import Team from '/src/scenes/team.jsx';
